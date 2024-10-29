@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Medeiros,Darren,Male,1
+Dzwil,Sarah,Female,5
+Card,Peter,Male,3
+Toolan,Kat,Female,2

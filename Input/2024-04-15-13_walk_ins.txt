@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Hayashi,Lucas,Male,2
+Knox,Mia,Female,1
+Bennett,Hunter,Male,3
+Yamamoto,Aiko,Female,4

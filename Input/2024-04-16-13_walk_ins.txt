@@ -1,0 +1,3 @@
+Last,First,Gender,TriageLevel
+Hall,Ethan,Male,5
+Allen,Victoria,Female,3

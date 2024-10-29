@@ -1,0 +1,7 @@
+Last,First,Gender,TriageLevel
+Miller,Emma,Female,3
+Wilson,Olivia,Female,2
+Moore,William,Male,4
+Taylor,Sophia,Female,1
+Anderson,Andrew,Male,5
+Thomas,Isabella,Female,3

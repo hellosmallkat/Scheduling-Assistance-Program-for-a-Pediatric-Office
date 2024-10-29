@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Swift,Cameron,Male,4
+Mata,Juliana,Female,3
+Delgado,Isaiah,Male,1
+Santiago,Isabella,Female,2

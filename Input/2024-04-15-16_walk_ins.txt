@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Monroe,Nathan,Male,2
+Nguyen,Hailey,Female,3
+Stone,Connor,Male,4
+Peterson,Scarlett,Female,1

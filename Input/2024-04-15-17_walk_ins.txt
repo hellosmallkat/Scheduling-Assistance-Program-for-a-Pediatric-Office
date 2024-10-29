@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Carter,Joshua,Male,5
+Carter,Leah,Female,2
+Torres,Xavier,Male,1
+Perez,Sofia,Female,4

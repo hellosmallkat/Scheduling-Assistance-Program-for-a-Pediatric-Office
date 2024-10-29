@@ -1,0 +1,4 @@
+Last,First,Gender,TriageLevel
+Jackson,Nathan,Male,2
+White,Mia,Female,4
+Harris,Daniel,Male,1

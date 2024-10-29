@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Morales,Gabriel,Male,4
+Walker,Abigail,Female,3
+Walsh,Dylan,Male,2
+Turner,Victoria,Female,5

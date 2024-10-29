@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Jensen,Leo,Male,3
+Feldman,Elena,Female,4
+Weaver,Thomas,Male,2
+Diaz,Valentina,Female,5

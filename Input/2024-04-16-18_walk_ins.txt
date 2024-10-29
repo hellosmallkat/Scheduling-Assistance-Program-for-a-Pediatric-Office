@@ -1,0 +1,4 @@
+Last,First,Gender,TriageLevel
+Perez,Adam,Male,3
+Roberts,Harper,Female,2
+Turner,Evelyn,Female,4

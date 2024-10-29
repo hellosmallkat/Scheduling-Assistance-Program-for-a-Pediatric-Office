@@ -1,0 +1,6 @@
+Last,First,Gender,TriageLevel
+Scott,Logan,Male,4
+Green,Ella,Female,1
+Adams,Owen,Male,5
+Baker,Alexandra,Female,3
+Gonzalez,William,Male,2

@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Rhodes,Oliver,Male,4
+Liu,Madison,Female,5
+Bennett,James,Male,3
+King,Natalie,Female,1

@@ -1,0 +1,7 @@
+Last,First,Gender,TriageLevel
+Young,Liam,Male,2
+Hernandez,Ava,Female,4
+King,Noah,Male,1
+Wright,Chloe,Female,5
+Lopez,Daniel,Male,3
+Hill,Samantha,Female,2

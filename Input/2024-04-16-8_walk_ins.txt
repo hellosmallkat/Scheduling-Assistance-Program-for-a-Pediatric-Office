@@ -1,0 +1,6 @@
+Last,First,Gender,TriageLevel
+Smith,John,Male,3
+Johnson,Emily,Female,2
+Williams,Michael,Male,4
+Brown,Sarah,Female,1
+Davis,James,Male,5

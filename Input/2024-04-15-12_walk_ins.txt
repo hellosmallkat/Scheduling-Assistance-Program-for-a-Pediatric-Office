@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Brooks,Mason,Male,1
+O'Connor,Abby,Female,3
+Garza,Logan,Male,4
+Tran,Emily,Female,5

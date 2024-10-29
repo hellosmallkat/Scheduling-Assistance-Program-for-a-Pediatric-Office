@@ -1,0 +1,27 @@
+Appointments for Dr. Taylor:
+John (Johnson): Start time: 08:00, End time: 08:29
+Sarah (Brown): Start time: 08:30, End time: 08:44
+Emily (Johnson): Start time: 08:45, End time: 08:59
+Henry (Morris): Start time: 09:00, End time: 09:29
+Sophia (Taylor): Start time: 09:30, End time: 09:44
+Olivia (Wilson): Start time: 09:45, End time: 09:59
+Michael (Wilson): Start time: 10:30, End time: 10:59
+Sophia (Anderson): Start time: 11:00, End time: 11:29
+Joseph (Robinson): Start time: 11:30, End time: 11:59
+Evelyn (Long): Start time: 12:00, End time: 12:29
+Grace (Turner): Start time: 12:30, End time: 12:59
+Riley (Collins): Start time: 13:00, End time: 13:29
+Chloe (Lopez): Start time: 13:30, End time: 13:59
+Noah (King): Start time: 14:00, End time: 14:14
+Liam (Young): Start time: 14:15, End time: 14:29
+Ava (Carter): Start time: 14:30, End time: 14:59
+Joanne (Johnson): Start time: 15:00, End time: 15:29
+Henrietta (Morrin): Start time: 15:30, End time: 15:59
+Edward (Brown): Start time: 16:00, End time: 16:29
+Michael (Mantle): Start time: 16:30, End time: 16:59
+Sophie (Bridgers): Start time: 17:00, End time: 17:29
+Joey (Stone): Start time: 17:30, End time: 17:59
+Evelyn (Stardew): Start time: 18:00, End time: 18:29
+Grace (Fixer): Start time: 18:30, End time: 18:59
+Robert (Collins): Start time: 19:00, End time: 19:29
+Chloe (Harper): Start time: 19:30, End time: 19:59

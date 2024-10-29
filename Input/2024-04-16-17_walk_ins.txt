@@ -1,0 +1,3 @@
+Last,First,Gender,TriageLevel
+Carter,Jack,Male,1
+Mitchell,Aria,Female,5

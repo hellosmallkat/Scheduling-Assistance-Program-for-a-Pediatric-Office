@@ -1,0 +1,21 @@
+Appointments for Dr. Taylor:
+Darren (Medeiros): Start time: 08:00, End time: 08:14
+Kat (Toolan): Start time: 08:15, End time: 08:29
+Peter (Card): Start time: 08:30, End time: 08:44
+Sarah (Dzwil): Start time: 08:45, End time: 08:59
+Bob (Johnson): Start time: 09:30, End time: 09:59
+Emma (Watson): Start time: 10:00, End time: 10:29
+Wanda (Howtasaygif): Start time: 10:30, End time: 10:59
+Sarah (Miller): Start time: 11:30, End time: 11:59
+Daniel (Taylor): Start time: 13:00, End time: 13:29
+Mia (Knox): Start time: 13:30, End time: 13:44
+Aiko (Yamamoto): Start time: 13:45, End time: 13:59
+Hannah (Wilson): Start time: 14:30, End time: 14:59
+Joe (Hanks): Start time: 15:00, End time: 15:29
+Emma (Hanks): Start time: 15:30, End time: 15:59
+James (Wright): Start time: 16:00, End time: 16:29
+Jane (Brown): Start time: 17:00, End time: 17:29
+Clifford (White): Start time: 17:30, End time: 17:59
+Joseph (Hall): Start time: 18:00, End time: 18:29
+Harper (Stewart): Start time: 19:00, End time: 19:29
+Ella (Adams): Start time: 19:30, End time: 19:59

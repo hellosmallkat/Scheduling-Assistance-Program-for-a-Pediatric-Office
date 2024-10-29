@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Pereira,Sophia,Female,4
+Grimaldo,Oscar,Male,5
+Levy,Maya,Female,1
+McNeil,Ethan,Male,2

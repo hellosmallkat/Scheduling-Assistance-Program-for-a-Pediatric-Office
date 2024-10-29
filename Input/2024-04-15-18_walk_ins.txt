@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Cooper,Alexander,Male,3
+Mitchell,Penelope, Female,1
+Shah,Kian,Male,5
+Myers,Samantha,Female,2

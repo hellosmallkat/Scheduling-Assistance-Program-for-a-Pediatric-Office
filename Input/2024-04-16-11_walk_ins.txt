@@ -1,0 +1,6 @@
+Last,First,Gender,TriageLevel
+Martin,Grace,Female,5
+Thompson,Christopher,Male,3
+Garcia,Sophie,Female,2
+Martinez,Joseph,Male,4
+Robinson,Elizabeth,Female,1

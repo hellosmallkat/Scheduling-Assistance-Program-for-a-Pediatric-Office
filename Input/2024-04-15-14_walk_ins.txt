@@ -1,0 +1,5 @@
+Last,First,Gender,TriageLevel
+Patel,Aryan,Male,5
+Sanchez,Camila,Female,2
+Murphy,Julian,Male,1
+Simmons,Grace,Female,3

@@ -1,0 +1,6 @@
+Last,First,Gender,TriageLevel
+Clark,Matthew,Male,5
+Rodriguez,Charlotte,Female,3
+Lewis,Robert,Male,2
+Lee,Amelia,Female,4
+Walker,Emily,Female,1
