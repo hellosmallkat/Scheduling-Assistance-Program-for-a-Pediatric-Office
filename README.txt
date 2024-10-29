@@ -1,3 +1,6 @@
+This was a group project which i did with three other classmates for CSC 212: Data Structures and Abstractions
+
+
 # README: Scheduling Assistance Program for a Pediatric Office
 
 ## Brief Overview of Microcosm
